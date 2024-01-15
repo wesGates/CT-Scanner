@@ -2,7 +2,7 @@
 
 Some information such as the specific hardware being used is ommitted for confidentiality purposes. All following information is openly available to the public via the University of Idaho's EXPO student projects archive. 
 
-Key **Hardware** features include:
+## Key **Hardware** features include:
 
 1. **Motor**: A stepper motor with a planetary gearbox was selected for precise angle control and increased rotation torque. Microstepping technology was implemented for smoother motion, which proved vital for image quality.
 
@@ -13,7 +13,7 @@ Key **Hardware** features include:
 4. **Circuitry**: An Arduino Nano was used as the microcontroller for its small size and sufficient data rate. The microstepping driver was chosen for its compact size and compatibility with the motor, fulfilling the system's weight requirements.
 
 
-Key **Software** features include: 
+## Key **Software** features include: 
 
 1. **Reconstruction Algorithm**: The team initially considered the Sheer-Warp algorithm but shifted to Filtered Back Projection (FBP) due to its applicability and documentation availability. FBP was chosen over Feldkamp Davis and Kress (FDK) due to implementation complexities.
 
