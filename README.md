@@ -2,6 +2,9 @@
 
 Some information such as the specific hardware being used is ommitted for confidentiality purposes. All following information is openly available to the public via the University of Idaho's EXPO student projects archive. 
 
+![image](https://github.com/wesGates/CT-Scanner/assets/115967155/a4331dd8-8dab-4a30-bbe4-1306078a0168)
+
+
 ## Key **Hardware** features include:
 
 1. **Motor**: A stepper motor with a planetary gearbox was selected for precise angle control and increased rotation torque. Microstepping technology was implemented for smoother motion, which proved vital for image quality.
